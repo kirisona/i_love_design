@@ -55,3 +55,106 @@ textarea {
 	padding-left: 20px;
 	padding-right: 20px;
 }
+
+.ba-header {
+    display: inline-block;
+    background-color: #23232e;
+    height: 850px;
+    width: 100%;
+}
+
+.ba-logo {
+    display: block;
+    margin: 0 auto;
+    padding-top: 80px;
+    width: 135px;
+    height: 135px;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 60px;
+    padding-top: 187px;
+    margin: 0;
+}
+
+h1 + p {
+    color: #fff;
+    line-height: 1.5;
+    text-align: center;
+    margin: 0 auto;
+    width: 420px;
+    font-size: 17px;
+    padding-top: 65px;
+}
+
+.ba-btn {
+    display: inline-block;
+    padding-top: 150px;
+    padding-left: 48.9%;
+}
+
+button {
+    display: inline-block;
+    border-radius: 45% 50%;
+    background-color: #23232e;
+    border: 2px solid #fff;
+    width: 40px;
+    height: 40px;
+    transform: rotate(90deg);
+}
+
+.ba-text {
+    display: inline-block;
+    text-align: center;
+    padding-top: 120px;
+    
+}
+
+.text {
+    padding-left: 1em;
+    font-size: 25px;
+    width: 46%;
+    margin: 0 auto;
+    line-height: 1.5;
+}
+
+.text, footer {
+   color: #464b4f; 
+}
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 60px;
+    padding-top: 127px;
+    margin: 0;
+}
+
+.footer-text {
+    display: flex;
+    width: 48%;
+    margin: 0 auto;
+    padding-top: 100px;
+    padding-bottom: 130px;
+}
+
+.about {
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+h3 {
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+main {
+    background-image: url(/img/back.png);  
+}
+
+footer {
+    background-image: url(/img/back.png);   
+}
